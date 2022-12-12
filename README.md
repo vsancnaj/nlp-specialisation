@@ -1,2 +1,2 @@
-# nlp-specialisation
-NLP Specialisation course through coursera
+# NLP Specialisation
+NLP Specialisation course through Coursera
